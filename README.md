@@ -1,11 +1,11 @@
 # IP-Address_using_C
 This is my First year project of ComputerNetwork using C.
 
-IP Utility
+# IP Utility
 
 This repository contains a program that provides various IP-related functionalities. The program is written in C language.
 
-Features
+# Features
 
   1) Get Details of Currently Operating System: This feature allows you to retrieve information about the currently operating system by executing the ipconfig command.
 
